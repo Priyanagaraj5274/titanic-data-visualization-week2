@@ -1,0 +1,16 @@
+WEEK 2 - TITANIC DATA VISUALIZATION
+Name: Priya N
+============================================================
+
+1. Overall Survival Rate: 38.38% of passengers in the dataset survived.
+
+2. Gender and Survival: Female survival rate was 74.20% while male survival rate was 18.89%.
+
+3. Passenger Class: Class 1 had the highest survival rate (62.96%), while Class 3 had the lowest (24.24%).
+
+4. Age Pattern: The average age of survivors was 28.29 years, compared with 30.03 years for non-survivors.
+
+5. Family Size: Family size 4 showed the highest observed survival rate of 72.41%.
+
+6. Fare Pattern: Survivors paid an average fare of 48.40, compared with 22.12 for non-survivors.
+
